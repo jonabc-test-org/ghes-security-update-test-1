@@ -1,19 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    actioncable (6.0.4)
-      actionpack (= 6.0.4)
-      nio4r (~> 2.0)
-      websocket-driver (>= 0.6.1)
-    aws-sdk-core (3.114.0)
-      aws-eventstream (~> 1, >= 1.0.2)
-      aws-partitions (~> 1, >= 1.239.0)
-      aws-sigv4 (~> 1.1)
-      jmespath (~> 1.0)
     nio4r (2.5.7)
     puma (4.3.8)
       nio4r (~> 2.0)
-    jmespath (1.4.0)
 
 PLATFORMS
   ruby
@@ -22,4 +12,4 @@ DEPENDENCIES
   puma (~> 4.3)
 
 BUNDLED WITH
-   1.17.3
+   2.7.0
