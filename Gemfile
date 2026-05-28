@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 # Open Source
-gem "puma", "~> 4.3"                          # Web server
+gem "puma", "~> 5.6"                          # Web server
